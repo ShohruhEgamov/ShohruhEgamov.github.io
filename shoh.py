@@ -1,13 +1,15 @@
-def egamov(ism):
-    print("shohruh " + ism)
+a = 1
+b = 2
+c = a + b
+print(c)
 
 
-a = [100]
+print("Salom Dunyo")
+print("yana ozgarish")
+print("mahallidan qoshaman")
 
+class MyClass:
+  x = 5
 
-personal = {
-    "ism": "shohruh",
-    "yosh": "23",
-    "mamlakat": "urgench"
-
-}
+p1 = MyClass()
+print(p1.x)
