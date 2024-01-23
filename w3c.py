@@ -595,7 +595,21 @@ while i < 6:
   print(i)
   i += 1'''
 
+'''def myfunc(v):
+  return abs(v - 50)
 
+thislist = [100, 50, 65, 82, 23]
+
+thislist.sort(key = myfunc)
+
+print(thislist)
+
+
+thislist = [1,7,9,4,5]
+
+thislist.sort(key=int)
+
+print(thislist)'''
 
 
 
