@@ -1,5 +1,0 @@
-# BARCHA .log fayllarini e'tiborsiz qoldiring
-*.log
-
-# temp nomli HAR QANDAY katalogdagi BARCHA fayllarni e'tiborsiz qoldiring
-temp/
